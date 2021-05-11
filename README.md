@@ -1,4 +1,8 @@
-# badi-zuri
+# Zuri badi available space
+Created during boredom and prokrastination
+
+Demo: [zuba.wickdev.ch](https://zuba.wickdev.ch)
+
 
 ## Project setup
 ```
@@ -14,11 +18,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
